@@ -14,6 +14,11 @@
 <a href="https://fb.com/tarek.rahman.1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarek.rahman.1999" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/tarek_rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tarek_rahman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tarek-rahman-2b9203268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek-rahman-2b9203268" height="30" width="40" /></a>
+<a href="https://twitter.com/tarek__rahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarek__rahman_" height="30" width="40" /></a>
+<a href="https://kaggle.com/tarek123321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tarek123321" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tarekrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarekrahman" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/2020-1-60-218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="2020-1-60-218" height="30" width="40" /></a>
+<a href="https://instagram.com/tarek.rahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarek.rahman_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
