@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tarek Rahman</h1>
 <h3 align="center">A passionate Data Engineer & Web developer from Bangladesh</h3>
 
